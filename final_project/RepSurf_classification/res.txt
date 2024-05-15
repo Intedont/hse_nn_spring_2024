@@ -1,0 +1,82 @@
+100%|██████████| 20/20 [00:06<00:00,  3.27it/s]
+{'acc': 0.9205834683954619, 'corruption': 'clean'}
+{'OA': 0.921, 'corruption': 'clean', 'level': 'Overall'}
+100%|██████████| 20/20 [00:05<00:00,  3.88it/s]
+{'acc': 0.9064019448946515, 'corruption': 'scale', 'level': 0}
+100%|██████████| 20/20 [00:05<00:00,  3.85it/s]
+{'acc': 0.8982982171799028, 'corruption': 'scale', 'level': 1}
+100%|██████████| 20/20 [00:05<00:00,  3.88it/s]
+{'acc': 0.8950567260940032, 'corruption': 'scale', 'level': 2}
+100%|██████████| 20/20 [00:05<00:00,  3.89it/s]
+{'acc': 0.8910048622366289, 'corruption': 'scale', 'level': 3}
+100%|██████████| 20/20 [00:05<00:00,  3.84it/s]
+{'acc': 0.8881685575364667, 'corruption': 'scale', 'level': 4}
+{'CE': 1.106, 'OA': 0.896, 'RCE': 1.25, 'corruption': 'scale', 'level': 'Overall'}
+100%|██████████| 20/20 [00:05<00:00,  3.93it/s]
+{'acc': 0.8780388978930308, 'corruption': 'jitter', 'level': 0}
+100%|██████████| 20/20 [00:05<00:00,  3.93it/s]
+{'acc': 0.8411669367909238, 'corruption': 'jitter', 'level': 1}
+100%|██████████| 20/20 [00:05<00:00,  3.87it/s]
+{'acc': 0.7341977309562399, 'corruption': 'jitter', 'level': 2}
+100%|██████████| 20/20 [00:05<00:00,  3.96it/s]
+{'acc': 0.48419773095623986, 'corruption': 'jitter', 'level': 3}
+100%|██████████| 20/20 [00:05<00:00,  3.85it/s]
+{'acc': 0.24149108589951376, 'corruption': 'jitter', 'level': 4}
+{'CE': 1.152, 'OA': 0.636, 'RCE': 1.178, 'corruption': 'jitter', 'level': 'Overall'}
+100%|██████████| 20/20 [00:05<00:00,  3.94it/s]
+{'acc': 0.8833063209076175, 'corruption': 'rotate', 'level': 0}
+100%|██████████| 20/20 [00:05<00:00,  3.88it/s]
+{'acc': 0.8209076175040518, 'corruption': 'rotate', 'level': 1}
+100%|██████████| 20/20 [00:05<00:00,  3.92it/s]
+{'acc': 0.7106969205834684, 'corruption': 'rotate', 'level': 2}
+100%|██████████| 20/20 [00:04<00:00,  4.01it/s]
+{'acc': 0.6012965964343598, 'corruption': 'rotate', 'level': 3}
+100%|██████████| 20/20 [00:05<00:00,  3.99it/s]
+{'acc': 0.4785251215559157, 'corruption': 'rotate', 'level': 4}
+{'CE': 1.4, 'OA': 0.699, 'RCE': 1.574, 'corruption': 'rotate', 'level': 'Overall'}
+100%|██████████| 20/20 [00:04<00:00,  4.05it/s]
+{'acc': 0.9141004862236629, 'corruption': 'dropout_global', 'level': 0}
+100%|██████████| 20/20 [00:05<00:00,  3.97it/s]
+{'acc': 0.9080226904376013, 'corruption': 'dropout_global', 'level': 1}
+100%|██████████| 20/20 [00:04<00:00,  4.00it/s]
+{'acc': 0.9027552674230146, 'corruption': 'dropout_global', 'level': 2}
+100%|██████████| 20/20 [00:04<00:00,  4.02it/s]
+{'acc': 0.8662884927066451, 'corruption': 'dropout_global', 'level': 3}
+100%|██████████| 20/20 [00:05<00:00,  3.96it/s]
+{'acc': 0.6750405186385737, 'corruption': 'dropout_global', 'level': 4}
+{'CE': 0.593, 'OA': 0.853, 'RCE': 0.391, 'corruption': 'dropout_global', 'level': 'Overall'}
+100%|██████████| 20/20 [00:04<00:00,  4.01it/s]
+{'acc': 0.8881685575364667, 'corruption': 'dropout_local', 'level': 0}
+100%|██████████| 20/20 [00:05<00:00,  3.94it/s]
+{'acc': 0.8594003241491086, 'corruption': 'dropout_local', 'level': 1}
+100%|██████████| 20/20 [00:05<00:00,  3.95it/s]
+{'acc': 0.8148298217179902, 'corruption': 'dropout_local', 'level': 2}
+100%|██████████| 20/20 [00:05<00:00,  3.92it/s]
+{'acc': 0.7556726094003241, 'corruption': 'dropout_local', 'level': 3}
+100%|██████████| 20/20 [00:05<00:00,  3.99it/s]
+{'acc': 0.6337115072933549, 'corruption': 'dropout_local', 'level': 4}
+{'CE': 1.014, 'OA': 0.79, 'RCE': 0.985, 'corruption': 'dropout_local', 'level': 'Overall'}
+100%|██████████| 20/20 [00:05<00:00,  3.92it/s]
+{'acc': 0.9238249594813615, 'corruption': 'add_global', 'level': 0}
+100%|██████████| 20/20 [00:04<00:00,  4.03it/s]
+{'acc': 0.9222042139384117, 'corruption': 'add_global', 'level': 1}
+100%|██████████| 20/20 [00:05<00:00,  4.00it/s]
+{'acc': 0.9213938411669368, 'corruption': 'add_global', 'level': 2}
+100%|██████████| 20/20 [00:04<00:00,  4.03it/s]
+{'acc': 0.9205834683954619, 'corruption': 'add_global', 'level': 3}
+100%|██████████| 20/20 [00:05<00:00,  3.95it/s]
+{'acc': 0.9222042139384117, 'corruption': 'add_global', 'level': 4}
+{'CE': 0.264, 'OA': 0.922, 'RCE': -0.005, 'corruption': 'add_global', 'level': 'Overall'}
+100%|██████████| 20/20 [00:04<00:00,  4.00it/s]
+{'acc': 0.9193679092382496, 'corruption': 'add_local', 'level': 0}
+100%|██████████| 20/20 [00:05<00:00,  3.98it/s]
+{'acc': 0.9189627228525121, 'corruption': 'add_local', 'level': 1}
+100%|██████████| 20/20 [00:05<00:00,  3.92it/s]
+{'acc': 0.916936790923825, 'corruption': 'add_local', 'level': 2}
+100%|██████████| 20/20 [00:05<00:00,  3.98it/s]
+{'acc': 0.9205834683954619, 'corruption': 'add_local', 'level': 3}
+100%|██████████| 20/20 [00:05<00:00,  3.99it/s]
+{'acc': 0.9177471636952999, 'corruption': 'add_local', 'level': 4}
+{'CE': 0.295, 'OA': 0.919, 'RCE': 0.01, 'corruption': 'add_local', 'level': 'Overall'}
+{'RmCE': 0.769, 'mCE': 0.832, 'mOA': 0.816}
+(repsurf-cls) [madusov@sms classification]$ 
